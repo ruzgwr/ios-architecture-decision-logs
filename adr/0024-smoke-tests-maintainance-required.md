@@ -17,3 +17,5 @@ Covering all elements inside the smoke tests is required when new element is add
   * Pull requests will be rejected if does not covered by smoke tests.
   * Updated smoke tests will increase confidence in our pipeline.
   * Regression tests will always have the necessary infrastructure.
+
+
