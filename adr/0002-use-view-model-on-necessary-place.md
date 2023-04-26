@@ -14,4 +14,4 @@ Our problem was that if we need to manipulate the response we was doing it on DT
 
 ## Consequences
 
-  * Much More Clean Code
+  * Much More Clean Code.
